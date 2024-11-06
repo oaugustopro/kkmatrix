@@ -22,7 +22,7 @@ This repository contains two Python scripts that create a dynamic "waterfall" an
 Run `waterfall.py` with an optional input string argument. If no argument is provided, a random string is generated.
 
 ```bash
-python waterfall.py [input_string]
+python waterfall.py [input_string] color
 ```
 
 ## Example:
